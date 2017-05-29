@@ -6,4 +6,6 @@
 
 	header('location:pertanyaan.php?id=1');
 	exit;
+	
+	//nbkmfkjhfjkhdsjnsdkl
 ?>
